@@ -2,8 +2,8 @@
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 
 <AlexGoot>
-  <SetList>
-    <Song type = "cover">1.
+  <SetList>1. 
+    <Song type = "cover">
       <Artists>
         <Original>OneRepublic</Original>
         <Cover>
@@ -19,6 +19,22 @@
         <Secondary>Pop Rock</Secondary>
       </Genre>
       <Year>2013</Year>
+    </Song>2.
+      <Artists>
+        <Original>Justin Beiber</Original>
+        <Cover>
+          <Main>Alex Goot</Main>
+          <Collab>Kurt Schneider</Collab>
+          <Collab>Chrissy Costanza</Collab>
+        </Cover>
+      </Artists>
+      <Title>Beauty And A Beat</Title>
+      <Genre>
+        <Primary>EDM</Primary>
+        <Secondary>Electropop</Secondary>
+        <Secondary>Dubstep</Secondary>
+      </Genre>
+      <Year>2012</Year>
     </Song>
   </SetList>
 </AlexGoot>
