@@ -1,0 +1,22 @@
+<AlexGoot>
+  <SetList>
+    <Song type = "cover">
+      <Order>1</Order>
+      <Artists>
+        <Original>OneRepublic</Original>
+        <Cover>
+          <Main>Alex Goot</Main>
+          <Collab>Kurt Schneider</Collab>
+          <Collab>Chrissy Costanza</Collab>
+        </Cover>
+      </Artists>
+      <Title>Counting Stars</Title>
+      <Genre>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
+      </Genre>
+      <Year>2013</Year>
+    </Song>
+  </SetList>
+</AlexGoot>
