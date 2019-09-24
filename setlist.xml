@@ -27,7 +27,8 @@
     <Song>
       <Artists>
         <Original>
-          <Artist>Justin Beiber</Artist>
+          <Artist>Justin Bieber</Artist>
+          <Feature>Nicki Minaj</Feature>
         </Original>
         <Cover>
           <Artist>Alex Goot</Artist>
@@ -38,7 +39,7 @@
       <Title>Beauty And A Beat</Title>
       <Genre>
         <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
+        <Secondary>Electro Pop</Secondary>
         <Secondary>Dubstep</Secondary>
       </Genre>
       <Year>2012</Year>
@@ -47,43 +48,41 @@
     <Song>
       <Artists>
         <Original>
-          <Artist>OneRepublic</Artist>
+          <Artist>Owl City</Artist>
+          <Artist>Carly Rae Jepsen</Artist>
         </Original>
         <Cover>
           <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
+          <Artist>Against The Current</Artist>
         </Cover>
       </Artists>
-      <Title>Counting Stars</Title>
+      <Title>Good Time</Title>
       <Genre>
         <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
+        <Secondary>Dance Pop</Secondary>
       </Genre>
-      <Year>2013</Year>
+      <Year>2012</Year>
     </Song>
-    <Order>1.</Order> 
+    <Order>4.</Order> 
     <Song>
       <Artists>
         <Original>
-          <Artist>OneRepublic</Artist>
+          <Artist>David Guetta</Artist>
+          <Feature>Justin Bieber</Feature>
         </Original>
         <Cover>
           <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
+          <Artist>Against The Current</Artist>
         </Cover>
       </Artists>
-      <Title>Counting Stars</Title>
+      <Title>2U</Title>
       <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
+        <Primary>EDM</Primary>
+        <Secondary>Electro Pop</Secondary>
       </Genre>
-      <Year>2013</Year>
+      <Year>2017</Year>
     </Song>
-    <Order>1.</Order> 
+    <Order>5.</Order> 
     <Song>
       <Artists>
         <Original>
