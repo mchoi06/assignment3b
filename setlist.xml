@@ -2,7 +2,8 @@
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 
 <AlexGoot>
-  <SetList>1. 
+  <SetList>
+    <Order>1.</Order> 
     <Song>
       <Artists>
         <Original>OneRepublic</Original>
@@ -19,7 +20,8 @@
         <Secondary>Pop Rock</Secondary>
       </Genre>
       <Year>2013</Year>
-    </Song>2.
+    </Song>
+    <Order>2.</Order>
     <Song>
       <Artists>
         <Original>Justin Beiber</Original>
