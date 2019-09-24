@@ -6,11 +6,13 @@
     <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>OneRepublic</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
       <Title>Counting Stars</Title>
@@ -21,14 +23,16 @@
       </Genre>
       <Year>2013</Year>
     </Song>
-    <Order>2.</Order>
+    <Order>2.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>Justin Beiber</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
       <Title>Beauty And A Beat</Title>
@@ -39,149 +43,163 @@
       </Genre>
       <Year>2012</Year>
     </Song>
-    <Order>3.</Order>
+    <Order>3.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>4.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>5.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>6.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>7.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>8.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>9.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-    <Order>10.</Order>
+    <Order>1.</Order> 
     <Song>
       <Artists>
-        <Original>Justin Beiber</Original>
+        <Original>
+          <Artist>OneRepublic</Artist>
+        </Original>
         <Cover>
-          <Main>Alex Goot</Main>
-          <Collab>Kurt Schneider</Collab>
-          <Collab>Chrissy Costanza</Collab>
+          <Artist>Alex Goot</Artist>
+          <Artist>Kurt Schneider</Artist>
+          <Artist>Chrissy Costanza</Artist>
         </Cover>
       </Artists>
-      <Title>Beauty And A Beat</Title>
+      <Title>Counting Stars</Title>
       <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electropop</Secondary>
-        <Secondary>Dubstep</Secondary>
+        <Primary>Pop</Primary>
+        <Secondary>Folk Pop</Secondary>
+        <Secondary>Pop Rock</Secondary>
       </Genre>
-      <Year>2012</Year>
+      <Year>2013</Year>
     </Song>
-  </SetList>
-</AlexGoot>
