@@ -86,119 +86,115 @@
     <Song>
       <Artists>
         <Original>
-          <Artist>OneRepublic</Artist>
+          <Artist>The Chainsmokers</Artist>
         </Original>
         <Cover>
           <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
+          <Artist>Against The Current</Artist>
         </Cover>
       </Artists>
-      <Title>Counting Stars</Title>
+      <Title>Closer</Title>
       <Genre>
         <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
+        <Secondary>EDM</Secondary>
+        <Secondary>Future Bass</Secondary>
       </Genre>
-      <Year>2013</Year>
+      <Year>2016</Year>
+    </Song>
+    <Order>6.</Order> 
+    <Song>
+      <Artists>
+        <Original>
+          <Artist>DJ Snake</Artist>
+          <Feature>Justin Bieber</Feature>
+        </Original>
+        <Cover>
+          <Artist>Alex Goot</Artist>
+          <Artist>Against The Current</Artist>
+          <Artist>Kurt Schneider</Artist>
+        </Cover>
+      </Artists>
+      <Title>Let Me Love You</Title>
+      <Genre>
+        <Primary>EDM</Primary>
+        <Secondary>Tropical House</Secondary>
+      </Genre>
+      <Year>2016</Year>
+    </Song>
+    <Order>7.</Order> 
+    <Song>
+      <Artists>
+        <Original>
+          <Artist>Justin Bieber</Artist>
+        </Original>
+        <Cover>
+          <Artist>Alex Goot</Artist>
+          <Artist>Against The Current</Artist>
+          <Artist>Kurt Schneider</Artist>
+        </Cover>
+      </Artists>
+      <Title>Sorry</Title>
+      <Genre>
+        <Primary>Pop</Primary>
+        <Secondary>Dancehall Pop</Secondary>
+        <Secondary>Tropical House</Secondary>
+      </Genre>
+      <Year>2015</Year>
+    </Song>
+    <Order>8.</Order> 
+    <Song>
+      <Artists>
+        <Original>
+          <Artist>Ariana Grande</Artist>
+          <Feature>Iggy Azalea</Feature>
+        </Original>
+        <Cover>
+          <Artist>Alex Goot</Artist>
+          <Feature>Will Ferri</Feature>
+        </Cover>
+      </Artists>
+      <Title>Problem</Title>
+      <Genre>
+        <Primary>R&B</Primary>
+        <Secondary>Dance Pop</Secondary>
+      </Genre>
+      <Year>2014</Year>
+    </Song>
+    <Order>9.</Order> 
+    <Song>
+      <Artists>
+        <Original>
+          <Artist>Nickelback</Artist>
+        </Original>
+        <Cover>
+          <Artist>Alex Goot</Artist>
+          <Artist>Against The Current</Artist>
+        </Cover>
+      </Artists>
+      <Title>Photograph</Title>
+      <Genre>
+        <Primary>Rock</Primary>
+        <Secondary>Post-Grunge</Secondary>
+      </Genre>
+      <Year>2005</Year>
     </Song>
     <Order>1.</Order> 
     <Song>
       <Artists>
         <Original>
-          <Artist>OneRepublic</Artist>
+          <Artist>Kelly Clarkson</Artist>
         </Original>
         <Cover>
           <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
+          <Artist>Against The Current</Artist>
         </Cover>
       </Artists>
-      <Title>Counting Stars</Title>
+      <Title>Catch My Breath</Title>
       <Genre>
         <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
+        <Secondary>Electro Pop</Secondary>
       </Genre>
-      <Year>2013</Year>
+      <Year>2012</Year>
     </Song>
-    <Order>1.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>OneRepublic</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
-        </Cover>
-      </Artists>
-      <Title>Counting Stars</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
-      </Genre>
-      <Year>2013</Year>
-    </Song>
-    <Order>1.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>OneRepublic</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
-        </Cover>
-      </Artists>
-      <Title>Counting Stars</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
-      </Genre>
-      <Year>2013</Year>
-    </Song>
-    <Order>1.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>OneRepublic</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
-        </Cover>
-      </Artists>
-      <Title>Counting Stars</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
-      </Genre>
-      <Year>2013</Year>
-    </Song>
-    <Order>1.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>OneRepublic</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
-        </Cover>
-      </Artists>
-      <Title>Counting Stars</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
-      </Genre>
-      <Year>2013</Year>
-    </Song>
+  </SetList>
+</AlexGoot>
