@@ -3,7 +3,7 @@
 
 <AlexGoot>
   <SetList>1. 
-    <Song type = "cover">
+    <Song>
       <Artists>
         <Original>OneRepublic</Original>
         <Cover>
@@ -20,6 +20,7 @@
       </Genre>
       <Year>2013</Year>
     </Song>2.
+    <Song>
       <Artists>
         <Original>Justin Beiber</Original>
         <Cover>
