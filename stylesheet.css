@@ -29,8 +29,16 @@ Song {
   border: 1em solid green;
 }
 
+Artist:before {
+  content: "Artist: ";
+}
+
 Artists {
   font-weight: bold;
+}
+
+Title:before {
+  content: "Title: ";
 }
 
 Title {
