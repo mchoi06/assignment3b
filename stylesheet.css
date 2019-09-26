@@ -14,9 +14,25 @@ SetList:before {
   background-color: #cdf;
   }
 
+SetList {
+  display: block;
+  margin: 2em 1em;
+  border: 4px solid #cdf;
+  padding: 0px 1em;
+  background-color: white;
+  }
+
 Song {
   display: block;
   background-color: pink;
+}
+
+Artists {
+  font-weight: bold;
+}
+
+Title {
+  font-weight: bold;
 }
 
 </style>
