@@ -26,7 +26,8 @@ Song {
   display: block;
   background-color: pink;
   padding: 1em;
-  border: 1em solid green;
+  border: .5em solid green;
+  marhgin-bottom: 1em;
 }
 
 Artist:before {
