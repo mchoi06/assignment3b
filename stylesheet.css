@@ -7,11 +7,15 @@ SetList:before {
   display: block;
   width: 8em;
   font-weight: bold;
-  content: "Alex Goot Covers";
-  background-color: #BDFF83;
-}
+  font-size: 200%;
+  content: "Oceans";
+  margin: -.75em 0px .25em -.25em;
+  padding: .1em .25em;
+  background-color: #cdf;
+  }
 
 Song {
+  display: block;
   background-color: pink;
 }
 
