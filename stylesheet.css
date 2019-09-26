@@ -25,6 +25,7 @@ SetList {
 Song {
   display: block;
   background-color: pink;
+  border: 1em solid green;
 }
 
 Artists {
