@@ -10,8 +10,6 @@
   <Title>Counting Stars</Title>
   <Genre>
     <Primary>Pop</Primary>       
-    <Secondary>Folk Pop</Secondary>
-    <Secondary>Pop Rock</Secondary>
   </Genre>
   <Year>2013</Year>
 </Song>
@@ -25,8 +23,6 @@
   <Title>Beauty And A Beat</Title>
   <Genre>
     <Primary>EDM</Primary>
-    <Secondary>Electro Pop</Secondary>
-    <Secondary>Dubstep</Secondary>
   </Genre>
   <Year>2012</Year>
 </Song>
@@ -40,7 +36,6 @@
   <Title>Good Time</Title>
   <Genre>
     <Primary>Pop</Primary>
-    <Secondary>Dance Pop</Secondary>
   </Genre>
   <Year>2012</Year>
 </Song>
@@ -54,7 +49,6 @@
   <Title>2U</Title>
   <Genre>
     <Primary>EDM</Primary>
-    <Secondary>Electro Pop</Secondary>
   </Genre>
   <Year>2017</Year>
 </Song>
@@ -67,8 +61,6 @@
   <Title>Closer</Title>
   <Genre>
     <Primary>Pop</Primary>
-    <Secondary>EDM</Secondary>
-    <Secondary>Future Bass</Secondary>
   </Genre>
   <Year>2016</Year>
 </Song>
@@ -82,7 +74,6 @@
   <Title>Let Me Love You</Title>
   <Genre>
     <Primary>EDM</Primary>
-    <Secondary>Tropical House</Secondary>
   </Genre>
   <Year>2016</Year>
 </Song>
@@ -95,8 +86,6 @@
   <Title>Sorry</Title>
   <Genre>
     <Primary>Pop</Primary>
-    <Secondary>Dancehall Pop</Secondary>
-    <Secondary>Tropical House</Secondary>
   </Genre>
   <Year>2015</Year>
 </Song>
@@ -110,7 +99,6 @@
   <Title>Problem</Title>
   <Genre>
     <Primary>Rhythm and Blues</Primary>
-    <Secondary>Dance Pop</Secondary>
   </Genre>
   <Year>2014</Year>
 </Song>
@@ -123,7 +111,6 @@
   <Title>Photograph</Title>
   <Genre>
     <Primary>Rock</Primary>
-    <Secondary>Post-Grunge</Secondary>
   </Genre>
   <Year>2005</Year>
 </Song>
@@ -136,7 +123,6 @@
   <Title>Catch My Breath</Title>
   <Genre>
     <Primary>Pop</Primary>
-    <Secondary>Electro Pop</Secondary>
   </Genre>
   <Year>2012</Year>
 </Song>
