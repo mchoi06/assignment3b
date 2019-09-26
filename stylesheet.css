@@ -26,11 +26,11 @@ Song {
   display: block;
   background-color: pink;
   padding: 1em;
-  border: .5em solid green;
+  border: .1em solid green;
   marhgin-bottom: 1em;
 }
 
-Artist:before {
+Artists:before {
   content: "Artist: ";
 }
 
