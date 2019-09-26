@@ -3,6 +3,10 @@
 <title>Embedded Style Sheet</title>
 <style type="text/css">
 
+SetList {
+  display: block;
+}
+
 Song {
   display: block;
   background-color: #C9FFC2;
