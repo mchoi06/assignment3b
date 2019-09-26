@@ -35,6 +35,7 @@ Artists:before {
 }
 
 Artists {
+  display: block;
   font-weight: bold;
 }
 
@@ -43,7 +44,24 @@ Title:before {
 }
 
 Title {
+  display: block;
   font-weight: bold;
+}
+
+Genre:before {
+  content: "Genre: ";
+}
+
+Genre {
+  display: block;
+}
+
+Year:before {
+  content: "Year Released: "
+}
+
+Year {
+  display: block;
 }
 
 </style>
