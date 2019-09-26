@@ -5,6 +5,7 @@
 
 SetList:before {
   display: block;
+  margin: -.75em 0px .25em -.25em;
   content: "Set List";
 }
 
