@@ -5,14 +5,7 @@
 <Song>
   <Order>1.</Order>
   <Artists>
-    <Original>
-      <Artist>OneRepublic</Artist>
-    </Original> 
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Kurt Schneider</Artist>
-      <Artist>Chrissy Costanza</Artist>
-    </Cover>
+    <Main>OneRepublic</Main> 
   </Artists>
   <Title>Counting Stars</Title>
   <Genre>
@@ -26,15 +19,8 @@
 <Song>
   <Order>2.</Order> 
   <Artists>
-    <Original>
-      <Artist>Justin Bieber</Artist>
-      <Feature>Nicki Minaj</Feature>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Kurt Schneider</Artist>
-      <Artist>Chrissy Costanza</Artist>
-    </Cover>
+    <Main>Justin Bieber</Main>
+    <Feature>Nicki Minaj</Feature>
   </Artists>
   <Title>Beauty And A Beat</Title>
   <Genre>
@@ -48,14 +34,8 @@
 <Song>
   <Order>3.</Order> 
   <Artists>
-    <Original>
-      <Artist>Owl City</Artist>
-      <Artist>Carly Rae Jepsen</Artist>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-    </Cover>
+    <Main>Owl City<Main>
+    <Main>Carly Rae Jepsen</Main>
   </Artists>
   <Title>Good Time</Title>
   <Genre>
@@ -68,14 +48,8 @@
 <Song>
   <Order>4.</Order> 
   <Artists>
-    <Original>
-      <Artist>David Guetta</Artist>
-      <Feature>Justin Bieber</Feature>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-    </Cover>
+    <Main>David Guetta</Main>
+    <Feature>Justin Bieber</Feature>
   </Artists>
   <Title>2U</Title>
   <Genre>
@@ -88,13 +62,7 @@
 <Song>
   <Order>5.</Order> 
   <Artists>
-    <Original>
-      <Artist>The Chainsmokers</Artist>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-    </Cover>
+    <Main>The Chainsmokers</Main>
   </Artists>
   <Title>Closer</Title>
   <Genre>
@@ -108,15 +76,8 @@
 <Song>
   <Order>6.</Order> 
   <Artists>
-    <Original>
-      <Artist>DJ Snake</Artist>
-      <Feature>Justin Bieber</Feature>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-      <Artist>Kurt Schneider</Artist>
-    </Cover>
+    <Main>DJ Snake</Main>
+    <Feature>Justin Bieber</Feature>
   </Artists>
   <Title>Let Me Love You</Title>
   <Genre>
@@ -129,14 +90,7 @@
 <Song>
   <Order>7.</Order> 
   <Artists>
-    <Original>
-      <Artist>Justin Bieber</Artist>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-      <Artist>Kurt Schneider</Artist>
-    </Cover>
+      <Main>Justin Bieber</Main>
   </Artists>
   <Title>Sorry</Title>
   <Genre>
@@ -150,14 +104,8 @@
 <Song>
   <Order>8.</Order> 
   <Artists>
-    <Original>
-      <Artist>Ariana Grande</Artist>
-      <Feature>Iggy Azalea</Feature>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Feature>Will Ferri</Feature>
-    </Cover>
+    <Main>Ariana Grande</Main>
+    <Feature>Iggy Azalea</Feature>
   </Artists>
   <Title>Problem</Title>
   <Genre>
@@ -170,13 +118,7 @@
 <Song>
   <Order>9.</Order> 
   <Artists>
-    <Original>
-      <Artist>Nickelback</Artist>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-    </Cover>
+    <Main>Nickelback</Main>
   </Artists>
   <Title>Photograph</Title>
   <Genre>
@@ -189,13 +131,7 @@
 <Song>
   <Order>10.</Order> 
   <Artists>
-    <Original>
-      <Artist>Kelly Clarkson</Artist>
-    </Original>
-    <Cover>
-      <Artist>Alex Goot</Artist>
-      <Artist>Against The Current</Artist>
-    </Cover>
+    <Main>Kelly Clarkson</Main>
   </Artists>
   <Title>Catch My Breath</Title>
   <Genre>
