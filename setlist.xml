@@ -1,200 +1,207 @@
 <?xml version = "1.0" encoding = "UTF-8"?>
 <?xml-stylesheet type="text/css" href="stylesheet.css"?>
 
-<AlexGoot>
-  <SetList>
-    <Order>1.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>OneRepublic</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
-        </Cover>
-      </Artists>
-      <Title>Counting Stars</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Folk Pop</Secondary>
-        <Secondary>Pop Rock</Secondary>
-      </Genre>
-      <Year>2013</Year>
-    </Song>
-    <Order>2.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>Justin Bieber</Artist>
-          <Feature>Nicki Minaj</Feature>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Kurt Schneider</Artist>
-          <Artist>Chrissy Costanza</Artist>
-        </Cover>
-      </Artists>
-      <Title>Beauty And A Beat</Title>
-      <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electro Pop</Secondary>
-        <Secondary>Dubstep</Secondary>
-      </Genre>
-      <Year>2012</Year>
-    </Song>
-    <Order>3.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>Owl City</Artist>
-          <Artist>Carly Rae Jepsen</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-        </Cover>
-      </Artists>
-      <Title>Good Time</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Dance Pop</Secondary>
-      </Genre>
-      <Year>2012</Year>
-    </Song>
-    <Order>4.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>David Guetta</Artist>
-          <Feature>Justin Bieber</Feature>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-        </Cover>
-      </Artists>
-      <Title>2U</Title>
-      <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Electro Pop</Secondary>
-      </Genre>
-      <Year>2017</Year>
-    </Song>
-    <Order>5.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>The Chainsmokers</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-        </Cover>
-      </Artists>
-      <Title>Closer</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>EDM</Secondary>
-        <Secondary>Future Bass</Secondary>
-      </Genre>
-      <Year>2016</Year>
-    </Song>
-    <Order>6.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>DJ Snake</Artist>
-          <Feature>Justin Bieber</Feature>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-          <Artist>Kurt Schneider</Artist>
-        </Cover>
-      </Artists>
-      <Title>Let Me Love You</Title>
-      <Genre>
-        <Primary>EDM</Primary>
-        <Secondary>Tropical House</Secondary>
-      </Genre>
-      <Year>2016</Year>
-    </Song>
-    <Order>7.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>Justin Bieber</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-          <Artist>Kurt Schneider</Artist>
-        </Cover>
-      </Artists>
-      <Title>Sorry</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Dancehall Pop</Secondary>
-        <Secondary>Tropical House</Secondary>
-      </Genre>
-      <Year>2015</Year>
-    </Song>
-    <Order>8.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>Ariana Grande</Artist>
-          <Feature>Iggy Azalea</Feature>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Feature>Will Ferri</Feature>
-        </Cover>
-      </Artists>
-      <Title>Problem</Title>
-      <Genre>
-        <Primary>Rhythm and Blues</Primary>
-        <Secondary>Dance Pop</Secondary>
-      </Genre>
-      <Year>2014</Year>
-    </Song>
-    <Order>9.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>Nickelback</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-        </Cover>
-      </Artists>
-      <Title>Photograph</Title>
-      <Genre>
-        <Primary>Rock</Primary>
-        <Secondary>Post-Grunge</Secondary>
-      </Genre>
-      <Year>2005</Year>
-    </Song>
-    <Order>10.</Order> 
-    <Song>
-      <Artists>
-        <Original>
-          <Artist>Kelly Clarkson</Artist>
-        </Original>
-        <Cover>
-          <Artist>Alex Goot</Artist>
-          <Artist>Against The Current</Artist>
-        </Cover>
-      </Artists>
-      <Title>Catch My Breath</Title>
-      <Genre>
-        <Primary>Pop</Primary>
-        <Secondary>Electro Pop</Secondary>
-      </Genre>
-      <Year>2012</Year>
-    </Song>
-  </SetList>
-</AlexGoot>
+<SetList>
+<Song>
+  <Order>1.</Order>
+  <Artists>
+    <Original>
+      <Artist>OneRepublic</Artist>
+    </Original> 
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Kurt Schneider</Artist>
+      <Artist>Chrissy Costanza</Artist>
+    </Cover>
+  </Artists>
+  <Title>Counting Stars</Title>
+  <Genre>
+    <Primary>Pop</Primary>       
+    <Secondary>Folk Pop</Secondary>
+    <Secondary>Pop Rock</Secondary>
+  </Genre>
+  <Year>2013</Year>
+</Song>
+
+<Song>
+  <Order>2.</Order> 
+  <Artists>
+    <Original>
+      <Artist>Justin Bieber</Artist>
+      <Feature>Nicki Minaj</Feature>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Kurt Schneider</Artist>
+      <Artist>Chrissy Costanza</Artist>
+    </Cover>
+  </Artists>
+  <Title>Beauty And A Beat</Title>
+  <Genre>
+    <Primary>EDM</Primary>
+    <Secondary>Electro Pop</Secondary>
+    <Secondary>Dubstep</Secondary>
+  </Genre>
+  <Year>2012</Year>
+</Song>
+  
+<Song>
+  <Order>3.</Order> 
+  <Artists>
+    <Original>
+      <Artist>Owl City</Artist>
+      <Artist>Carly Rae Jepsen</Artist>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+    </Cover>
+  </Artists>
+  <Title>Good Time</Title>
+  <Genre>
+    <Primary>Pop</Primary>
+    <Secondary>Dance Pop</Secondary>
+  </Genre>
+  <Year>2012</Year>
+</Song>
+  
+<Song>
+  <Order>4.</Order> 
+  <Artists>
+    <Original>
+      <Artist>David Guetta</Artist>
+      <Feature>Justin Bieber</Feature>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+    </Cover>
+  </Artists>
+  <Title>2U</Title>
+  <Genre>
+    <Primary>EDM</Primary>
+    <Secondary>Electro Pop</Secondary>
+  </Genre>
+  <Year>2017</Year>
+</Song>
+
+<Song>
+  <Order>5.</Order> 
+  <Artists>
+    <Original>
+      <Artist>The Chainsmokers</Artist>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+    </Cover>
+  </Artists>
+  <Title>Closer</Title>
+  <Genre>
+    <Primary>Pop</Primary>
+    <Secondary>EDM</Secondary>
+    <Secondary>Future Bass</Secondary>
+  </Genre>
+  <Year>2016</Year>
+</Song>
+
+<Song>
+  <Order>6.</Order> 
+  <Artists>
+    <Original>
+      <Artist>DJ Snake</Artist>
+      <Feature>Justin Bieber</Feature>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+      <Artist>Kurt Schneider</Artist>
+    </Cover>
+  </Artists>
+  <Title>Let Me Love You</Title>
+  <Genre>
+    <Primary>EDM</Primary>
+    <Secondary>Tropical House</Secondary>
+  </Genre>
+  <Year>2016</Year>
+</Song>
+
+<Song>
+  <Order>7.</Order> 
+  <Artists>
+    <Original>
+      <Artist>Justin Bieber</Artist>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+      <Artist>Kurt Schneider</Artist>
+    </Cover>
+  </Artists>
+  <Title>Sorry</Title>
+  <Genre>
+    <Primary>Pop</Primary>
+    <Secondary>Dancehall Pop</Secondary>
+    <Secondary>Tropical House</Secondary>
+  </Genre>
+  <Year>2015</Year>
+</Song>
+
+<Song>
+  <Order>8.</Order> 
+  <Artists>
+    <Original>
+      <Artist>Ariana Grande</Artist>
+      <Feature>Iggy Azalea</Feature>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Feature>Will Ferri</Feature>
+    </Cover>
+  </Artists>
+  <Title>Problem</Title>
+  <Genre>
+    <Primary>Rhythm and Blues</Primary>
+    <Secondary>Dance Pop</Secondary>
+  </Genre>
+  <Year>2014</Year>
+</Song>
+
+<Song>
+  <Order>9.</Order> 
+  <Artists>
+    <Original>
+      <Artist>Nickelback</Artist>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+    </Cover>
+  </Artists>
+  <Title>Photograph</Title>
+  <Genre>
+    <Primary>Rock</Primary>
+    <Secondary>Post-Grunge</Secondary>
+  </Genre>
+  <Year>2005</Year>
+</Song>
+
+<Song>
+  <Order>9.</Order> 
+  <Artists>
+    <Original>
+      <Artist>Kelly Clarkson</Artist>
+    </Original>
+    <Cover>
+      <Artist>Alex Goot</Artist>
+      <Artist>Against The Current</Artist>
+    </Cover>
+  </Artists>
+  <Title>Catch My Breath</Title>
+  <Genre>
+    <Primary>Pop</Primary>
+    <Secondary>Electro Pop</Secondary>
+  </Genre>
+  <Year>2012</Year>
+</Song>
+</SetList>
