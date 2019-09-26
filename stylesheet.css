@@ -26,12 +26,13 @@ Song {
   display: block;
   background-color: #C9FFC2;
   padding: 1em;
-  border: .1em solid green;
-  marhgin-bottom: 1em;
+  border: .3em solid green;
+  margin-bottom: 1em;
 }
 
 Artists:before {
   content: "Artist: ";
+  font-weight: bold;
 }
 
 Artists {
@@ -41,6 +42,7 @@ Artists {
 
 Title:before {
   content: "Title: ";
+  font-weight: bold;
 }
 
 Title {
@@ -50,6 +52,7 @@ Title {
 
 Genre:before {
   content: "Genre: ";
+  font-weight: bold;
 }
 
 Genre {
@@ -57,7 +60,8 @@ Genre {
 }
 
 Year:before {
-  content: "Year Released: "
+  content: "Year Released: ";
+  font-weight: bold;
 }
 
 Year {
