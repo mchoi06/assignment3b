@@ -3,12 +3,6 @@
 <title>Embedded Style Sheet</title>
 <style type="text/css">
 
-SetList:before {
-  display: block;
-  margin: -.75em 0px .25em -.25em;
-  content: "Set List";
-}
-
 SetList {
   display: block;
   padding: 1em;
