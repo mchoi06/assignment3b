@@ -11,5 +11,9 @@ SetList:before {
   background-color: #BDFF83;
 }
 
+Song {
+  background-color: pink;
+}
+
 </style>
 </head>
